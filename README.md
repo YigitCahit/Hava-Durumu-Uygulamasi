@@ -16,4 +16,4 @@ Bu proje, **C# ve WinForms** kullanılarak geliştirilmiş bir hava durumu uygul
 ## 🔧 Kullanım
 1. **Projeyi klonlayın**  
    ```bash
-   git clone https://github.com/kullaniciadi/hava-durumu.git
+   git clone https://github.com/YigitCahit/hava-durumu.git
